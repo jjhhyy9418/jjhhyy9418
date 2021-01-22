@@ -21,7 +21,6 @@
 </table>
 
 |Created period|2020.12.04~2021.01.14|
-|---|:---|:---:|---:|
 |team member|2|
 |project|[eLINK](http://embed.swq.co.kr/eLINK|
 |내용 9|내용 10|
