@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[My Introduction](heeyun9418.github.io)
+[My Introduction](http://heeyun9418.github.io)
 
 [My Project Homepage](http://embed.swq.co.kr/eLINK/)
 <!--
