@@ -3,8 +3,10 @@
 안녕하세요 신입 개발자 정희윤입니다.
 
 
-> 💻 __*MY STACK*__   #Java, JavaScript, MySQL, HTML5, CSS3                                                                                                                               
-> 🎫 __*CERTIFICATION*__  #컴퓨터그래픽스운용기능사, 전산응용기계제도기능사, 1종보통운전면허
+> 💻 __*MY STACK*__   
+#Java, JavaScript, MySQL, HTML5, CSS3                                                                                                                               
+> 🎫 __*CERTIFICATION*__  
+#컴퓨터그래픽스운용기능사, 전산응용기계제도기능사, 1종보통운전면허
 
 |     |Explanation|
 |:---:|:---|
