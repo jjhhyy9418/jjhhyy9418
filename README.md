@@ -13,7 +13,7 @@
           <tr>
                     <td>team member</td><td> 2 </td>
           <tr>
-                    <td>Project</td><td>[eLINK](http://embed.swq.co.kr/eLINK/)</td>
+                    <td>Project</td><td><a href="http://embed.swq.co.kr/eLINK" target="blank"></a></td>
           </tr>
           <tr>
                     <td>Portfolio</td><td>[Portfolio](http://heeyun9418.github.io)</td>
