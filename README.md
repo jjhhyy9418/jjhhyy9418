@@ -4,9 +4,9 @@
 
 
 > 💻 __*MY STACK*__   
-#Java, JavaScript, MySQL, HTML5, CSS3                                                                                                                               
++ Java, JavaScript, MySQL, HTML5, CSS3                                                                                                                               
 > 🎫 __*CERTIFICATION*__  
-#컴퓨터그래픽스운용기능사, 전산응용기계제도기능사, 1종보통운전면허
++ 컴퓨터그래픽스운용기능사, 전산응용기계제도기능사, 1종보통운전면허
 
 |     |Explanation|
 |:---:|:---|
