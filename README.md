@@ -6,6 +6,11 @@
 > 💻 _*MY STACK*_   :         Java, JavaScript, MySQL, HTML5, CSS3                                                                                                                               
 > 🎫 _*CERTIFICATION*_        :         컴퓨터그래픽스운용기능사, 전산응용기계제도기능사, 1종보통운전면허
 
+<table>
+          <tr>
+                    <td>Project</td>
+          </tr>
+</table>
 |PROJECT| 2020.12.02~2021.01.14
           team member: 2|
 [My Introduction](http://heeyun9418.github.io)
