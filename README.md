@@ -9,7 +9,7 @@
 |     |Explanation|
 |:---:|:---|
 |Created period|2020.12.04 ~ 2021.01.14|
-|team member|2|
+|Team members|2|
 |Project|[eLINK](http://embed.co.kr/eLINK)|
 |Portfolio|[portfolio](http://heeyun9418.github.io)|
 
