@@ -22,9 +22,9 @@
 
 |기본값|왼쪽 정렬|
 |---|---|
-|내용 1|내용 2|
-|내용 5|내용 6|
-|내용 9|내용 10|
+|Created period|2020.12.04 ~ 2021.01.14|
+|team member|2|
+|Project|[eLINK](http://embed.co.kr/eLINK)|
 
 <!--
 **heeyun9418/heeyun9418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
