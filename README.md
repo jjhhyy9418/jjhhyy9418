@@ -8,14 +8,20 @@
 
 <table>
           <tr>
-                    <td>Project</td>
+                    <td>Created period</td><td>2020.12.04 ~ 2021.01.14</td>
+          </tr>
+          <tr>
+                    <td>team member</td><td> 2 </td>
+          <tr>
+                    <td>Project</td><td>[eLINK](http://embed.swq.co.kr/eLINK/)</td>
+          </tr>
+          <tr>
+                    <td>Portfolio</td><td>[Portfolio](http://heeyun9418.github.io)</td>
           </tr>
 </table>
-|PROJECT| 2020.12.02~2021.01.14
-          team member: 2|
-[My Introduction](http://heeyun9418.github.io)
 
-[My Project Homepage](http://embed.swq.co.kr/eLINK/)
+
+
 <!--
 **heeyun9418/heeyun9418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
