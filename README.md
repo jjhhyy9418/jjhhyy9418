@@ -14,7 +14,7 @@
 |:---:|:---|
 |Created period|2020.12.04 ~ 2021.01.14|
 |Team members|2|
-|Project|[eLINK](http://embed.co.kr/eLINK)|
+|Project|[eLINK](http://embed.swq.co.kr/eLINK)|
 
 <!--
 **heeyun9418/heeyun9418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
