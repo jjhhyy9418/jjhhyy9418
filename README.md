@@ -10,7 +10,7 @@
 > 🎫 __*CERTIFICATION*__  
   + 컴퓨터그래픽스운용기능사, 전산응용기계제도기능사, 1종보통운전면허
 > 🍕 __*PORTFOLIO*__  
-  + [Portfolio](http://heeyun9418.github.io)
+  + [Portfolio](http://jjhhyy9418.github.io)
 
 |     |Explanation|
 |:---:|:---|
@@ -19,7 +19,7 @@
 |Project|[eLINK](http://embed.swq.co.kr/eLINK)|
 
 <!--
-**heeyun9418/heeyun9418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jjhhyy9418/jjhhyy9418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
