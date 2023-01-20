@@ -6,11 +6,11 @@
 
 
 > 💻 __*MY STACK*__   
-  + Java, JavaScript, MySQL, HTML5, CSS3                                                                                                                               
+  + Java, JavaScript, MySQL, HTML5, CSS3, React, SpringBoot                                                                                                                               
 > 🎫 __*CERTIFICATION*__  
   + 컴퓨터그래픽스운용기능사, 전산응용기계제도기능사, 1종보통운전면허
 > 🍕 __*PORTFOLIO*__  
-  + <a href="" target="_blank">[Portfolio](http://jjhhyy9418.github.io)</a>
+  + [Portfolio](http://jjhhyy9418.github.io)
 
 |     |Explanation|
 |:---:|:---|
